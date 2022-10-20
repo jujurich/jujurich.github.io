@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Picture #1 (fall) </h1>
+    <img src = "fall.jpeg" alt = "fall">
+    <br>
+    <p> The original image has a resolution of 2121 x 1414 </p>
+    <p> The aspect ratio is 3 / 2 or 1.5 </p>
+    <p> The image at half the size is 2121 x 707</p>
+    <img src = "fall.jpeg" alt = "fall" width = "1060.5" height = "707">
+
+   <p> The image at quarter the size is 530.25 x 353.5</p>
+    <img src = "fall.jpeg" alt = "fall" width = "530.25" height = "353.5">
+
+ 
+ <h2>  ----------------This divides the section (don't delete) ---- </h2>
+   
+    <h1>Picture #2 (my whip) </h1>
+    <img src = "benz.webp" alt = "benz">
+    <br>
+    <p> The original image has a resolution of 812 x 457 </p>
+    <p> The aspect ratio is 16 / 9 or 1.78 </p>
+    <p> The image at half the size is 406 x 228.5 </p>
+    <img src = "benz.webp" alt = "benz" width = "406" height = "228.5">
+
+   <p> The image at quarter the size is 203 x 114.25</p>
+    <img src = "benz.webp" alt = "benz" width = "203" height = "114.25">
+
+
+ <h2>  ----------------This divides the section (don't delete) ---- </h2>
+    
+    <h1>Picture #3 (my dog) </h1>
+    <img src = "doberman.jpeg" alt = "dog">
+    <br>
+    <p> The original image has a resolution of 720 x 480 </p>
+    <p> The aspect ratio is 3 / 2 or 1.5 </p>
+    <p> The image at half the size is 360 x 240 </p>
+    <img src = "doberman.jpeg" alt = "dog" width = "360" height = "240">
+
+   <p> The image at quarter the size is 180 x 120</p>
+    <img src = "doberman.jpeg" alt = "dog" width = "180" height = "120">
+
+
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
