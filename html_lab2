@@ -49,8 +49,6 @@
     <img src = "doberman.jpeg" alt = "dog" width = "180" height = "120">
 
 
-
-
     <script src="script.js"></script>
   </body>
 </html>
