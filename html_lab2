@@ -2,7 +2,10 @@
 <html>
   <head>
 
-  
+   <!--Instructions  
+   Your goal is to replace the pitbull iamge with another image of your choice. Update the info in the description so that it is correct. Resize the images with appropriate resolution to make them half and quarter size)
+   
+   Repeat this twice for Picture #2 and #3    --> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
@@ -47,6 +50,8 @@
 
    <p> The image at quarter the size is 180 x 120</p>
     <img src = "doberman.jpeg" alt = "dog" width = "180" height = "120">
+
+
 
 
     <script src="script.js"></script>
