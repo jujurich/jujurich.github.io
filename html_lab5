@@ -52,7 +52,7 @@ take away the controls and change the size to 100 x 100
 
  <audio controls>
     
-    <source src = "sample3.ogg" type = "audio/ogg" >
+    <source src = "sample1.ogg" type = "audio/ogg" >
 
   </audio>
     
